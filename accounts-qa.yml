@@ -2,7 +2,7 @@ build:
   version: "v2.0"
 
 contact:
-  message: "Bank System - Account API"
+  message: "Bank System - Account API ambiente de pruebas"
   details:
     name: "Kevyn Evadido - Tester Lead"
     email: "hoyosjd@globalhitss.com"
